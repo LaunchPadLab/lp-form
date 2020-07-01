@@ -29,7 +29,7 @@
   "devDependencies": {
     "@launchpadlab/babel-preset": "^2.1.1",
     "@launchpadlab/eslint-config": "^2.2.3",
-    "documentation": "^12.1.1",
+    "documentation": "^13.0.0",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "eslint": "^6.1.0",
